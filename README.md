@@ -1,0 +1,1 @@
+## A simple command line currency converter without any api calls
